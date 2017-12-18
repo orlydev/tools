@@ -1,0 +1,13 @@
+{
+    "name": "orlydev/tools",
+    "description": "Useful classes",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OrlyDev\\Tools\\": "src"
+        }
+    }
+}
